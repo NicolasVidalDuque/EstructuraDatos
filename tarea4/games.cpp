@@ -1,3 +1,13 @@
+/*
+Nicolas Vidal
+8950320
+
+Complejidad:
+    O(n log(n) + l1 + l2), n = cantidad de palabras, l1 = longitud de string 1, l2 = longitud string 2
+
+*/
+
+
 #include <iostream>
 #include <string>
 #include <vector>
