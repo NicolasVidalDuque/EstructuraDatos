@@ -1,3 +1,7 @@
+/*
+Autores: Nicolas Vidal & David Nino
+*/
+
 #include "cola-prioridad.h"
 #include <algorithm>
 
