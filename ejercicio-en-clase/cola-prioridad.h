@@ -1,3 +1,7 @@
+/*
+Autores: Nicolas Vidal & David Nino
+*/
+
 #ifndef COLA_PRIORIDAD_H
 #define COLA_PRIORIDAD_H
 
